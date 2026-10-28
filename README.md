@@ -1,10 +1,10 @@
-# Phish or Legit? (Lab 04)
+# Phish or Legit?
 
 A small web application that classifies a message as **phishing** or **legitimate**, shows the
 classifier score, lets you change the decision threshold live, and explains each decision with
 per-feature contributions.
 
-**Live app:** 
+**Live app:** https://phish-or-legit-8np5d4x2u8knhginmu2k8s.streamlit.app/ 
 
 > This tool supports a human decision and does not block messages by itself. The data is synthetic.
 
