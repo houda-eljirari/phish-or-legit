@@ -1,0 +1,110 @@
+[
+  {
+    "train": "synthetic",
+    "test": "synthetic",
+    "model": "LR",
+    "precision": 0.8191489361702128,
+    "recall": 0.7777777777777778,
+    "f1": 0.7979274611398963,
+    "brier": 0.060700099901516855
+  },
+  {
+    "train": "synthetic",
+    "test": "kaggle",
+    "model": "LR",
+    "precision": 0.3333333333333333,
+    "recall": 0.006666666666666667,
+    "f1": 0.013071895424836602,
+    "brier": 0.25380898796574447
+  },
+  {
+    "train": "kaggle",
+    "test": "synthetic",
+    "model": "LR",
+    "precision": 0.2730263157894737,
+    "recall": 0.8383838383838383,
+    "f1": 0.4119106699751861,
+    "brier": 0.29944758754265827
+  },
+  {
+    "train": "kaggle",
+    "test": "kaggle",
+    "model": "LR",
+    "precision": 0.96,
+    "recall": 0.64,
+    "f1": 0.768,
+    "brier": 0.08370324225334269
+  },
+  {
+    "train": "merged",
+    "test": "synthetic",
+    "model": "LR",
+    "precision": 0.8,
+    "recall": 0.8080808080808081,
+    "f1": 0.8040201005025126,
+    "brier": 0.06288484283003551
+  },
+  {
+    "train": "merged",
+    "test": "kaggle",
+    "model": "LR",
+    "precision": 0.9882352941176471,
+    "recall": 0.56,
+    "f1": 0.7148936170212766,
+    "brier": 0.09086614361305663
+  },
+  {
+    "train": "synthetic",
+    "test": "synthetic",
+    "model": "NB",
+    "precision": 0.6496350364963503,
+    "recall": 0.898989898989899,
+    "f1": 0.7542372881355932,
+    "brier": 0.09219135379444778
+  },
+  {
+    "train": "synthetic",
+    "test": "kaggle",
+    "model": "NB",
+    "precision": 0.5476190476190477,
+    "recall": 0.15333333333333332,
+    "f1": 0.23958333333333334,
+    "brier": 0.2327554878416725
+  },
+  {
+    "train": "kaggle",
+    "test": "synthetic",
+    "model": "NB",
+    "precision": 0.2832618025751073,
+    "recall": 0.6666666666666666,
+    "f1": 0.39759036144578314,
+    "brier": 0.2803463613852806
+  },
+  {
+    "train": "kaggle",
+    "test": "kaggle",
+    "model": "NB",
+    "precision": 1.0,
+    "recall": 0.7333333333333333,
+    "f1": 0.8461538461538461,
+    "brier": 0.057150490624350424
+  },
+  {
+    "train": "merged",
+    "test": "synthetic",
+    "model": "NB",
+    "precision": 0.7043478260869566,
+    "recall": 0.8181818181818182,
+    "f1": 0.7570093457943925,
+    "brier": 0.08168083869580019
+  },
+  {
+    "train": "merged",
+    "test": "kaggle",
+    "model": "NB",
+    "precision": 0.9669421487603306,
+    "recall": 0.78,
+    "f1": 0.8634686346863468,
+    "brier": 0.058389555228461856
+  }
+]
